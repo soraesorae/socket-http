@@ -6,3 +6,4 @@ __pycache__
 .vim
 *.swp
 venv
+curl_command.sh
